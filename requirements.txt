@@ -44,7 +44,7 @@ imblearn==0.0
 importlib-metadata==6.7.0
 indian-names==0.3
 ipykernel==6.16.2
-ipython==8.14.0
+ipython==7.34.0
 isoduration==20.11.0
 jax==0.4.7
 jedi==0.19.0
