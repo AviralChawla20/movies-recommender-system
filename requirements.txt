@@ -41,7 +41,7 @@ h5py==3.8.0
 idna==3.4
 imbalanced-learn==0.11.0
 imblearn==0.0
-importlib-metadata==6.8.0
+importlib-metadata==6.7.0
 indian-names==0.3
 ipykernel==6.25.1
 ipython==8.14.0
